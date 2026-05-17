@@ -40,7 +40,7 @@ MODEL_ENTRIES = [
 ]
 
 SCALER_PATH = "models/scaler.pkl"
-CSV_PATH = "https://drive.google.com/file/d/1Rd-KCUQUaWPlovxLizyFEDMCeBeFYFBo/view?usp=drive_link"
+CSV_PATH = "https://github.com/Pankaj2612/CreditCardFraud/releases/download/tech/creditcard.csv"
 
 
 def entry_path_exists(entry: dict) -> bool:
